@@ -2,10 +2,7 @@
 breakable: true
 //consumesTap: true
 category: effect
-requirements: [
-  copper/1
-]
-health: 500
+health: 1
 solid: true
 targetable: true
 //hasShadow: false
